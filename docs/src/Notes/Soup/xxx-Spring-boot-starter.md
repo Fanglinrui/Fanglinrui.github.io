@@ -51,4 +51,4 @@ spring:
 
 ---
 
-总结来说，`xxx-spring-boot-starter` 的核心作用是为你预定义依赖，并通过自动配置机制，根据 `application.yml` 中的配置来动态生成和装配对应的实例。如果你希望进一步了解特定 Starter 的配置和行为，我可以帮你深入讲解！ 😊
+总结来说，`xxx-spring-boot-starter` 的核心作用是为你预定义依赖，并通过自动配置机制，根据 `application.yml` 中的配置来动态生成和装配对应的实例
