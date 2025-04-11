@@ -28,6 +28,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Debug - List root files
+        run: ls -la # 查看根目录是否有 package.json
+      - name: Debug - Print working directory
+        run: pwd # 确认当前工作目录
+      - name: Debug - Check node modules
+        run: ls -la node_modules # 查看 node_modules 是否存在
       - name: Checkout
         uses: actions/checkout@v4
         with:
