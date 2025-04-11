@@ -36,10 +36,10 @@ jobs:
       #   with:
       #     version: 9 # Not needed if you've set "packageManager" in package.json
       # - uses: oven-sh/setup-bun@v1 # Uncomment this if you're using Bun
-      - name: get pwd files
-        run: pwd | ls # 看目录里的文件
-      - name: get pwd father
-        run: ls $(dirname $(pwd)) # 看父目录里的文件
+      # - name: get pwd files
+      #   run: pwd | ls # 看目录里的文件
+      # - name: get pwd father
+      #   run: ls $(dirname $(pwd)) # 看父目录里的文件
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
@@ -50,7 +50,7 @@ jobs:
         uses: actions/configure-pages@v4
       
       - name: Install dependencies
-        run: npm ci # or pnpm install / yarn install / bun install
+        run: npm install # or pnpm install / yarn install / bun install
      
       - name: Build with VitePress
         run: npm run docs:build # or pnpm docs:build / yarn docs:build / bun run docs:build
