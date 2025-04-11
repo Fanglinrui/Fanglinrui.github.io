@@ -15,6 +15,10 @@ types:
     desc: "interview experiences"
     link: "/Notes/Interviews/"
     icon: "🏃"
+  - name: "一锅乱炖"
+    desc: "Soup"
+    link: "/Notes/Soup/"
+    icon: "🦾" 
 # flow: true
 ---
 

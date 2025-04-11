@@ -8,4 +8,5 @@
 export const fileName2Title: Record<string, string> = {
   "0tutorial": "使用指南",
   Interviews: "示例文件",
+  Soup: "等我有空分个类",
 };
