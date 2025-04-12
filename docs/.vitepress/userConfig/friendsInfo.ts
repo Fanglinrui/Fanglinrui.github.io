@@ -11,6 +11,7 @@
 //  * TODO: 缺项处理
 //  * 在此处填写你的友情链接
 //  */
+const friendsInfo = [];
 // export const friendsInfo: Friend[] = [
 //   {
 //     avatar: "https://avatars.githubusercontent.com/u/108183563?v=4",
