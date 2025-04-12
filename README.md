@@ -1,6 +1,5 @@
-<h1 align="center">🌀 easy-vitepress-blog 🏖️</h1>
-
 基于 [ZbWeR](https://github.com/ZbWeR/easy-vitepress-blog) 的项目 [easy-vitepress-blog](https://github.com/ZbWeR/easy-vitepress-blog)，下附它的原版 README，很方便啊！！！！！朋友们快去试试：
+<h1 align="center">🌀 easy-vitepress-blog 🏖️</h1>
 
 基于 VitePress 快速搭建个人博客，自动化路由处理并预置了更加丰富的页面。
 

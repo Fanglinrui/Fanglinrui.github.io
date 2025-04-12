@@ -5,17 +5,18 @@ layout: home
 hero:
   name: "FLR"
   text: "FangLinrui's Blog"
-  tagline: "🚀写一段自我介绍要好一些吧，但我不知道写什么，就先这样吧"
+  tagline: "🚀写点东西，记录点什么，顺便看看能不能改变世界"
   image:
     src: /logo.png
     alt: VitePress
   actions:
     - theme: brand
+      text: About Me
+      link: /AboutMe
+    - theme: alt
       text: Posts
       link: /Notes/
-    - theme: alt
-      text: Github
-      link: https://github.com/Fanglinrui
+
 
 features:
   - icon: 📝
