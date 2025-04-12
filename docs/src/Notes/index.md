@@ -10,7 +10,11 @@ types:
   - name: "一锅乱炖"
     desc: "Soup"
     link: "/Notes/Soup/"
-    icon: "🦾" 
+    icon: "🐯" 
+  - name: "leetcode 刷题"
+    desc: "leetcode"
+    link: "/Notes/leetcode"
+    icon: "🐱"
 # flow: true
 ---
 
