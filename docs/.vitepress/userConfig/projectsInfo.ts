@@ -10,6 +10,7 @@
 //  * TODO: 缺项处理
 //  * 在此处填写你的项目介绍
 //  */
+export const projectsInfo = [];
 // export const projectsInfo: Project[] = [
 //   {
 //     banner: "/project-img/gpt-feishu.png",
