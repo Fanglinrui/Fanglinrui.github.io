@@ -60,8 +60,20 @@ const getTitle = (post: Post): string => {
 
 // 获取文章的前两个tag
 const getTags = (post: Post) => {
-  const rawTagString: string = post.frontmatter.tags;
-  return rawTagString ? rawTagString.split("/").slice(0, 2) : [];
+  const rawTagString = post.frontmatter.tags;
+
+  // 如果 tags 是字符串，分割并返回前两个标签
+  if (typeof rawTagString === "string") {
+    return rawTagString.split("/").slice(0, 2);
+  }
+
+  // 如果 tags 是数组，直接返回前两个标签
+  if (Array.isArray(rawTagString)) {
+    return rawTagString.slice(0, 2);
+  }
+
+  // 如果 tags 是其他类型或不存在，返回空数组
+  return [];
 };
 
 // 打开文章链接

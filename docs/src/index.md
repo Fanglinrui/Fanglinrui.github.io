@@ -3,31 +3,28 @@
 layout: home
 
 hero:
-  name: "FFFLR"
-  text: "这里应该是我的尊姓大名"
-  tagline: "🚀写一段自我介绍要好一些吧"
+  name: "FLR"
+  text: "FangLinrui's Blog"
+  tagline: "🚀写一段自我介绍要好一些吧，但我不知道写什么，就先这样吧"
   image:
     src: /logo.png
     alt: VitePress
   actions:
     - theme: brand
-      text: Blogs11
-      link: /Notes/0tutorial/quickstart
-    - theme: alt
-      text: MayBeforMyGithub
+      text: Posts
       link: /Notes/
+    - theme: alt
+      text: Github
+      link: https://github.com/Fanglinrui
 
-# features:
-#   - icon: 📝
-#     title: 专注于你的内容
-#     details: 只需使用 Markdown 即可轻松创建精美的文档网站。
-#   - icon: <svg xmlns="http://www.w3.org/2000/svg" width="30" viewBox="0 0 256 220.8"><path fill="#41B883" d="M204.8 0H256L128 220.8 0 0h97.92L128 51.2 157.44 0h47.36Z"/><path fill="#41B883" d="m0 0 128 220.8L256 0h-51.2L128 132.48 50.56 0H0Z"/><path fill="#35495E" d="M50.56 0 128 133.12 204.8 0h-47.36L128 51.2 97.92 0H50.56Z"/></svg>
-#     title: 使用 Vue 进行定制
-#     details: 在 Markdown 中使用 Vue 语法和组件，或使用 Vue 构建自定义主题。.
-#   - icon: 🚀
-#     title: 快速发布网站
-#     details: 使用静态 HTML 快速初始加载，客户端路由进行快速加载后导航。
-#   - icon: 🦄
-#     title: 更加丰富的功能
-#     details: 提供定制化模板轻松展示友情链接与开源项目介绍，并支持导出更加美观的 PDF 文件。
+features:
+  - icon: 📝
+    title: 人工智能
+    details: 肯定是非常厉害的，要狠狠研究
+  - icon: 🚀
+    title: 回归性原理
+    details: 佛說世界，即非世界，是名世界
+  - icon: 🦄
+    title: 三人行，必有我师焉
+    details: 放三个块在这里，两个不好看
 ---
