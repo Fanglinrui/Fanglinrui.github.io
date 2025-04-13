@@ -7,4 +7,5 @@
  */
 export const fileName2Title: Record<string, string> = {
   Soup: "一锅乱炖",
+  "ACM-mode": "ACM 模式练习",
 };
