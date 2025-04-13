@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "FLR"
   text: "FangLinrui's Blog"
-  tagline: "🚀写点东西，记录点什么，顺便看看能不能改变世界"
+  tagline: "🚀写点东西，记录点什么"
   image:
     src: /logo.png
     alt: VitePress
