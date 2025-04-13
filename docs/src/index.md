@@ -11,11 +11,12 @@ hero:
     alt: VitePress
   actions:
     - theme: brand
-      text: About Me
-      link: /AboutMe
-    - theme: alt
       text: Posts
       link: /Notes/
+    - theme: alt
+      text: About Me
+      link: /AboutMe
+ 
 
 
 features:
