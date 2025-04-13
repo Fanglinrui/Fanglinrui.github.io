@@ -8,4 +8,7 @@
 export const fileName2Title: Record<string, string> = {
   Soup: "一锅乱炖",
   "ACM-mode": "ACM 模式练习",
+  "MyBUPT": "期末复习攻略",
+  SEM4: "大二下",
+  SEM5: "大三上",
 };
