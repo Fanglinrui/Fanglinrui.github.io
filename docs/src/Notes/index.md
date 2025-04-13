@@ -9,7 +9,7 @@ hero:
 types:
   - name: "Leetcode 刷题"
     desc: "Leetcode"
-    link: "/Notes/Leetcode"
+    link: "/Notes/Leetcode/"
     icon: "🐱"
   - name: "一锅乱炖"
     desc: "Soup"
