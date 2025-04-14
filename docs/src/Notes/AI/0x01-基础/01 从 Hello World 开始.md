@@ -8,7 +8,7 @@
 
 - 所有的步骤总和就是下面这个样子
 
-  ![Snipaste_2025-04-14_16-23-04](./从 Hello World 开始.assets/Snipaste_2025-04-14_16-23-04-1744619096441-2.png)
+  ![Snipaste_2025-04-14_16-23-04](./从_HelloWorld_开始.assets/Snipaste_2025-04-14_16-23-04-1744619096441-2.png)
 
 ## 二、导入依赖  
 
@@ -82,13 +82,13 @@ public class HelloworldController {
 
 尝试运行起来吧，但是没想到竟然报错了，这可是跟着官方文档走的，这可怎么办  
 
-![image-20250414163446959](./从 Hello World 开始.assets/image-20250414163446959.png)
+![image-20250414163446959](./从_HelloWorld_开始.assets/image-20250414163446959.png)
 
 ### 解决  
 
 其实报错条目拖到最后面就可以看到，我们少配置了东西：  
 
-![image-20250414163549432](./从 Hello World 开始.assets/image-20250414163549432.png)  
+![image-20250414163549432](./从_HelloWorld_开始.assets/image-20250414163549432.png)  
 
 在 `application.yml` 中添加如下内容，记得注意缩进：
 
@@ -102,10 +102,10 @@ spring:
       api-key: ${DASHSCOPE_APIKEY}
 ```
 
-![image-20250414163707543](./从 Hello World 开始.assets/image-20250414163707543.png)
+![image-20250414163707543](./从_HelloWorld_开始.assets/image-20250414163707543.png)
 
 ## 五、运行成功  
 
 好了，没问题了，我们和古代人对上话了  
 
-![image-20250414163918214](./从 Hello World 开始.assets/image-20250414163918214.png)
+![image-20250414163918214](./从_HelloWorld_开始.assets/image-20250414163918214.png)
