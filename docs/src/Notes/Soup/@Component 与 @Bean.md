@@ -2,6 +2,7 @@
 tags:
   - Java开发
   - 注解
+updateTime: 2025-04-12 17:41
 ---
 ## 1. @Component
 `@Component `注解是Spring中用于定义一个普通组件类的注解。你可以将它用在任何希望由Spring容器管理的类上。

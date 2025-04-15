@@ -5,6 +5,7 @@ tags:
   - IPv6
   - 计算机网络
 来自于: "[[计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. R... (Z-Library).pdf#page=232&selection=179,0,187,3|计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. R... (Z-Library), page 232]]"
+updateTime: 2025-04-11 16:48
 ---
 # 第1部分 IPv4  
 ## 1.1 IP包头  

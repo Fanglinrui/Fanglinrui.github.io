@@ -2,6 +2,7 @@
 tags:
   - SSM
   - MyBatis
+updateTime: 2025-04-11 16:48
 ---
 除了在mapper层通过注解写SQL 查询语句之外，还可以通过Mybatis XML语句实现，下面是一个例子  
 

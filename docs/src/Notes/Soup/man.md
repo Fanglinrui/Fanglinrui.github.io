@@ -2,6 +2,7 @@
 tags:
   - Linux
   - 便捷开发
+updateTime: 2025-04-11 16:48
 ---
 # 基本操作  
 `man [name]`:查询某个东西的用法  

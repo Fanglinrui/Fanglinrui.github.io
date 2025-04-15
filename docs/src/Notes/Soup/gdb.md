@@ -2,6 +2,7 @@
 tags:
   - Linux
   - gdb
+updateTime: 2025-04-11 16:48
 ---
 ## 基本操作  
 - `continue or 'c'`: 执行直到断点  

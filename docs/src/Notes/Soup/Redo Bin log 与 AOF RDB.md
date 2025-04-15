@@ -2,6 +2,7 @@
 tags:
   - Redis
   - MySQL
+updateTime: 2025-04-11 16:48
 ---
 以下是RDB、AOF、Binlog和Redolog的全面对比及相似性分析，通过表格和分类总结它们的核心特性和关系：
 

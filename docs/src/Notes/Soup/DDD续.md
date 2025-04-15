@@ -3,6 +3,7 @@ tags:
   - DDD
   - 微服务
 参考: https://developer.aliyun.com/article/1436383
+updateTime: 2025-04-11 16:48
 ---
 长编大论的看得脑壳疼，这里来记录一些简单的人话
 

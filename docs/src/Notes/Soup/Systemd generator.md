@@ -4,6 +4,7 @@ tags:
   - Linux
   - Systemd
 参考: https://pberba.github.io/security/2022/02/07/linux-threat-hunting-for-persistence-systemd-generators/
+updateTime: 2025-04-11 16:48
 ---
 Boot or Logon Initialization Scripts: systemd-generators  
 

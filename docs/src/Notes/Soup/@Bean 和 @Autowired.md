@@ -2,6 +2,7 @@
 tags:
   - Java开发
   - 注解
+updateTime: 2025-04-12 17:41
 ---
 @Bean 和 @Autowired 做了两件完全不同的事情：
 

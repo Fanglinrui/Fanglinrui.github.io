@@ -4,6 +4,7 @@ tags:
   - NFA
   - DFA
 参考: "[[编译原理 原理、技术与工具 ( etc.) (Z-Library).pdf#page=114&selection=598,0,603,1|编译原理 原理、技术与工具 ( etc.) (Z-Library), 页面 114]]"
+updateTime: 2025-04-11 16:48
 ---
 要构造一个这样的表：
 

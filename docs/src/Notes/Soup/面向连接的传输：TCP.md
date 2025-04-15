@@ -5,6 +5,7 @@ tags:
   - 拥塞控制
 来自于: "[[计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. R... (Z-Library).pdf#page=170&selection=14,0,16,3|计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. R... (Z-Library), page 170]]"
 相关知识点: "[[可靠的数据传输]]"
+updateTime: 2025-04-11 16:48
 ---
 # 1 TCP连接  
 ## 1.1 三次握手  

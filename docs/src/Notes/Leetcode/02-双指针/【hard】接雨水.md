@@ -2,6 +2,7 @@
 题目地址: https://leetcode.cn/problems/trapping-rain-water/solutions/692342/jie-yu-shui-by-leetcode-solution-tuvc/?envType=study-plan-v2&envId=top-100-liked
 难度: 困难
 解析: https://www.programmercarl.com/0042.%E6%8E%A5%E9%9B%A8%E6%B0%B4.html#%E6%80%9D%E8%B7%AF
+updateTime: 2025-04-12 22:56
 ---
 这道题，重点要理解：
 $maxLeft[i] = max(height[i], maxLeft[i - 1]);$ 

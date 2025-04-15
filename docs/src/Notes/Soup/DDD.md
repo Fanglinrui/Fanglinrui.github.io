@@ -1,6 +1,7 @@
 ---
 tags:
   - DDD
+updateTime: 2025-04-11 16:48
 ---
 
 DDD（**领域驱动设计**，Domain-Driven Design）是一种软件开发方法论，由 Eric Evans 在其著作《Domain-Driven Design: Tackling Complexity in the Heart of Software》中提出。它的核心思想是通过**领域模型**来解决复杂业务问题，强调开发人员与领域专家紧密合作，以业务为核心进行软件设计。

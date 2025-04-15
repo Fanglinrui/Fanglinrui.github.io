@@ -7,6 +7,7 @@ tags:
 参考: "[[操作系统导论 (Remzi H. Arpaci-Dusseau etc.) (Z-Library).pdf#page=154&selection=13,0,38,0|操作系统导论 (Remzi H. Arpaci-Dusseau etc.) (Z-Library), page 154]]"
 aliases:
   - TLB
+updateTime: 2025-04-11 16:48
 ---
 # 背景  
 * 分页方式实现地址的虚拟化，开销太大：  

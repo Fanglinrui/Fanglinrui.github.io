@@ -3,6 +3,7 @@ tags:
   - MVC
   - Java开发
   - SpringMVC
+updateTime: 2025-04-11 16:48
 ---
 MVC：Model-View-Controller，将应用程序分为对应的三个组件：
 - **Model（模型）**：接受Controller的调遣，负责管理数据和业务逻辑。

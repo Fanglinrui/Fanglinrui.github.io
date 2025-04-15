@@ -4,6 +4,7 @@ tags:
 参考: https://blog.csdn.net/wintershii/article/details/80558739
 aliases:
   - Overload
+updateTime: 2025-04-11 16:48
 ---
 背景：在学习苍穹外卖时，对一种新的错误需要在“全局错误捕获中”添加错误处理，老师提到了重载  
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - SpringBoot
+updateTime: 2025-04-11 16:48
 ---
 **`xxx-spring-boot-starter`** 通常会根据你在 `application.yml` 或 `application.properties` 中的配置，自动创建和初始化对应的实例。这是 Spring Boot 的核心特性之一，基于 **自动配置（Auto-Configuration）** 和 **依赖注入（Dependency Injection）** 的工作机制实现的。
 

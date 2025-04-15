@@ -5,6 +5,7 @@ tags:
   - 通用转发和SDN
   - 路由器
 参考: "[[计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. R... (Z-Library).pdf#page=249&selection=107,0,111,3|计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. R... (Z-Library), 页面 249]]"
+updateTime: 2025-04-11 16:48
 ---
 - 中间盒：第二层交换机、第三层路由器  
 - 基于目的地的转发：  

@@ -2,6 +2,7 @@
 tags:
   - JUC
   - synchronized
+updateTime: 2025-04-11 16:48
 ---
 
 是的，Java 中的 **`synchronized`** 是支持重入的（Reentrant）。这意味着一个线程在已经持有某个锁的情况下，可以再次获取同一个锁而不会被阻塞。这种机制被称为**可重入锁**（Reentrant Lock）。

@@ -5,6 +5,7 @@ tags:
   - 木马
   - Systemd
 参考: https://pberba.github.io/security/2022/01/30/linux-threat-hunting-for-persistence-systemd-timers-cron/
+updateTime: 2025-04-11 16:48
 ---
 背景：为了使得木马躲避杀毒软件，考虑在杀毒软件启动前启动木马程序，这需要将我们的木马与**服务**联系起来    
 

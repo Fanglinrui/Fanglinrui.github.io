@@ -2,6 +2,7 @@
 tags:
   - JUC
   - Java集合
+updateTime: 2025-04-11 16:48
 ---
 Java 中没有 `Collections.synchronizedQueue()` 方法，原因：
 

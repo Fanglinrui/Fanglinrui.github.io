@@ -3,6 +3,7 @@ tags:
   - JVM
   - CMS
   - G1
+updateTime: 2025-04-11 16:48
 ---
 CMS（Concurrent Mark-Sweep）和 G1（Garbage-First）是 Java 虚拟机中两种不同的垃圾收集器，主要针对不同场景设计。以下是它们的对比：
 
