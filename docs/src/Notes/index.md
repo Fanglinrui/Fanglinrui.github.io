@@ -28,7 +28,7 @@ types:
     link: "/Notes/Soup/"
     icon: "🐯" 
 
-flow: true
+flow: false
 ---
 
 <script setup>
