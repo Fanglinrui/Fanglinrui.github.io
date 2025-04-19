@@ -13,4 +13,5 @@
 - [ ] MPC  
 
 以下是并列的：
-- [ ] Prompt 学习  
+- [ ] Prompt 学习 
+- [ ] Dify 使用 
