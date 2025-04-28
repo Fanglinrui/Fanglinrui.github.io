@@ -3,3 +3,4 @@ package-lock.json
 **/.vitepress/cache
 **/.vitepress/dist
 .obsidian
+desktop.ini
